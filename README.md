@@ -1,7 +1,9 @@
 # Machine Learning
 
 We use tensorflow as main library that we used to develop the CNN model. And used the another library as support the preprocessing the dataset.
-[Link For Dataset,model.h5,and Converted model to JSON-MODEL](https://drive.google.com/drive/folders/1D155_PddvgVCwRZg4IIHKTHV7DFiSIdo?usp=sharing)
+
+> [!NOTE]
+> This Link for .h5 model, json-model, and datasets that where it uses : [Link For Dataset,model.h5,and Converted model to JSON-MODEL](https://drive.google.com/drive/folders/1D155_PddvgVCwRZg4IIHKTHV7DFiSIdo?usp=sharing)
 
 ## Requirements
 
@@ -42,7 +44,7 @@ The following data set is used from Kaggle :
 
 
 
-## Model Architecture
+## **Model Architecture**
 
 Choosing this model Architecture, after create and evaluate the model by model layer created. The final model Architecture that used :
 
@@ -57,3 +59,7 @@ Choosing this model Architecture, after create and evaluate the model by model l
 ### **The Last Accuracy**
 
 `Akurasi validasi: 95.55%`
+
+
+> [!NOTE]
+> Hope The Documentation can help understand the model. 
