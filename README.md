@@ -32,7 +32,7 @@ The following data set is used from Kaggle :
   
 ### **First Dataset Detail**
 
-![First Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8d433f64-b282-4d2e-860b-ba79991b9a76)
+<img src="https://github.com/TrashHubs/Machine-Learning/assets/33770553/8d433f64-b282-4d2e-860b-ba79991b9a76" alt="First Dataset Detail" width="100" />
 
 ### **Second Dataset Detail**
 
