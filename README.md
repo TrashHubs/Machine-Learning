@@ -26,14 +26,18 @@ The following data set is used from Kaggle :
 - [First Dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
 - [Second Dataset](https://www.kaggle.com/datasets/fatemehboloori/trash-type-detection)
   And it merge into a large Dataset :
+  
   > **First Dataset Detail**
-![First Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8d433f64-b282-4d2e-860b-ba79991b9a76 | width=100)
+
+![First Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8d433f64-b282-4d2e-860b-ba79991b9a76)
 
 > **Second Dataset Detail**
-![Second Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8fbf8eda-ddc2-46e4-8c4a-562e18e7081c | width=100)
+
+![Second Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8fbf8eda-ddc2-46e4-8c4a-562e18e7081c)
 
 > **And After Merge it**
-![Used Dataset](https://github.com/TrashHubs/Machine-Learning/assets/33770553/910315a1-f468-4b0e-a50f-68d8e0a11a4d | width=100)
+
+![Used Dataset](https://github.com/TrashHubs/Machine-Learning/assets/33770553/910315a1-f468-4b0e-a50f-68d8e0a11a4d)
 
 
 
