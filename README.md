@@ -25,17 +25,18 @@ The following data set is used from Kaggle :
 
 - [First Dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
 - [Second Dataset](https://www.kaggle.com/datasets/fatemehboloori/trash-type-detection)
+
   And it merge into a large Dataset :
   
-  > **First Dataset Detail**
+### **First Dataset Detail**
 
 ![First Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8d433f64-b282-4d2e-860b-ba79991b9a76)
 
-> **Second Dataset Detail**
+### **Second Dataset Detail**
 
 ![Second Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8fbf8eda-ddc2-46e4-8c4a-562e18e7081c)
 
-> **And After Merge it**
+### **And After Merge it**
 
 ![Used Dataset](https://github.com/TrashHubs/Machine-Learning/assets/33770553/910315a1-f468-4b0e-a50f-68d8e0a11a4d)
 
@@ -45,8 +46,14 @@ The following data set is used from Kaggle :
 
 Choosing this model Architecture, after create and evaluate the model by model layer created. The final model Architecture that used :
 
-**Train Model Chart Result**
+![Model Architecture](https://github.com/TrashHubs/Machine-Learning/assets/33770553/835b7d08-9377-43ff-8b75-998620376ca0)
 
-**The Last Accuracy**
+
+### **Train Model Chart Result**
+
+![Train Chart Result](https://github.com/TrashHubs/Machine-Learning/assets/33770553/7fcc40fa-1a7f-4123-aaa6-e971c95f327e)
+
+
+### **The Last Accuracy**
 
 `Akurasi validasi: 95.55%`
