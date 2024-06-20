@@ -36,11 +36,11 @@ The following data set is used from Kaggle :
 
 ### **Second Dataset Detail**
 
-![Second Dataset Detail](https://github.com/TrashHubs/Machine-Learning/assets/33770553/8fbf8eda-ddc2-46e4-8c4a-562e18e7081c)
+<img src="https://github.com/TrashHubs/Machine-Learning/assets/33770553/8fbf8eda-ddc2-46e4-8c4a-562e18e7081c" alt="Second Dataset Detail" width="300" />
 
 ### **And After Merge it**
 
-![Used Dataset](https://github.com/TrashHubs/Machine-Learning/assets/33770553/910315a1-f468-4b0e-a50f-68d8e0a11a4d)
+<img src="https://github.com/TrashHubs/Machine-Learning/assets/33770553/910315a1-f468-4b0e-a50f-68d8e0a11a4d" alt="Used Dataset Detail" width="300" />
 
 
 
@@ -48,13 +48,13 @@ The following data set is used from Kaggle :
 
 Choosing this model Architecture, after create and evaluate the model by model layer created. The final model Architecture that used :
 
-![Model Architecture](https://github.com/TrashHubs/Machine-Learning/assets/33770553/835b7d08-9377-43ff-8b75-998620376ca0)
+<img src="https://github.com/TrashHubs/Machine-Learning/assets/33770553/835b7d08-9377-43ff-8b75-998620376ca0" alt="Model Architecture" width="300" />
+
 
 
 ### **Train Model Chart Result**
 
-![Train Chart Result](https://github.com/TrashHubs/Machine-Learning/assets/33770553/7fcc40fa-1a7f-4123-aaa6-e971c95f327e)
-
+<img src="https://github.com/TrashHubs/Machine-Learning/assets/33770553/7fcc40fa-1a7f-4123-aaa6-e971c95f327e" alt="Train Chart Result" width="300" />
 
 ### **The Last Accuracy**
 
